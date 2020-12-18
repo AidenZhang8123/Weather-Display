@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="152px" viewBox="0 0 170 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>fog</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10.2”-iPad备份" transform="translate(-80.000000, -660.000000)">
+            <g id="fog" transform="translate(80.000000, 661.000000)" fill="#FFFFFF">
+                <circle id="椭圆形" stroke="#E0E0E0" cx="112.5" cy="49.5" r="31.5"></circle>
+                <path d="M70.5568182,77 C91.653468,77 113,59.9731706 113,38.9695122 C113,17.9658538 91.653468,0 70.5568182,0 C49.4601683,0 30,17.9658538 30,38.9695122 C30,59.9731706 49.4601683,77 70.5568182,77 Z" id="椭圆形" stroke="#E0E0E0"></path>
+                <rect id="矩形" x="0" y="40" width="170" height="63" rx="31.5"></rect>
+                <rect id="矩形" x="22" y="109" width="126" height="10" rx="5"></rect>
+                <rect id="矩形" x="22" y="125" width="126" height="10" rx="5"></rect>
+                <rect id="矩形" x="22" y="141" width="126" height="10" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

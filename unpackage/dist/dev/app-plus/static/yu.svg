@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="154px" viewBox="0 0 170 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>rain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10.2”-iPad备份" transform="translate(-85.000000, -416.000000)">
+            <g id="rain" transform="translate(85.000000, 417.000000)" fill="#FFFFFF">
+                <circle id="椭圆形" stroke="#E0E0E0" cx="112.5" cy="49.5" r="31.5"></circle>
+                <path d="M70.5568182,77 C91.653468,77 113,59.9731706 113,38.9695122 C113,17.9658538 91.653468,0 70.5568182,0 C49.4601683,0 30,17.9658538 30,38.9695122 C30,59.9731706 49.4601683,77 70.5568182,77 Z" id="椭圆形" stroke="#E0E0E0"></path>
+                <rect id="矩形" x="0" y="40" width="170" height="63" rx="31.5"></rect>
+                <rect id="矩形" transform="translate(30.397114, 133.436533) rotate(30.000000) translate(-30.397114, -133.436533) " x="25.8971143" y="112.436533" width="9" height="42" rx="4.5"></rect>
+                <rect id="矩形" transform="translate(64.397114, 133.436533) rotate(30.000000) translate(-64.397114, -133.436533) " x="59.8971143" y="112.436533" width="9" height="42" rx="4.5"></rect>
+                <rect id="矩形" transform="translate(98.397114, 133.436533) rotate(30.000000) translate(-98.397114, -133.436533) " x="93.8971143" y="112.436533" width="9" height="42" rx="4.5"></rect>
+                <rect id="矩形" transform="translate(132.397114, 133.436533) rotate(30.000000) translate(-132.397114, -133.436533) " x="127.897114" y="112.436533" width="9" height="42" rx="4.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

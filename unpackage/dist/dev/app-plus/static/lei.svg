@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="152px" viewBox="0 0 170 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>thunder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10.2”-iPad备份" transform="translate(-581.000000, -402.000000)">
+            <g id="thunder" transform="translate(581.000000, 403.000000)" fill="#FFFFFF">
+                <circle id="椭圆形" stroke="#E0E0E0" cx="112.5" cy="49.5" r="31.5"></circle>
+                <path d="M70.5568182,77 C91.653468,77 113,59.9731706 113,38.9695122 C113,17.9658538 91.653468,0 70.5568182,0 C49.4601683,0 30,17.9658538 30,38.9695122 C30,59.9731706 49.4601683,77 70.5568182,77 Z" id="椭圆形" stroke="#E0E0E0"></path>
+                <rect id="矩形" x="0" y="40" width="170" height="63" rx="31.5"></rect>
+                <g id="编组" transform="translate(23.278851, 105.641754)">
+                    <polygon id="三角形" transform="translate(14.180478, 31.489031) scale(1, -1) rotate(-43.000000) translate(-14.180478, -31.489031) " points="18.1838518 16.2584803 17.1249635 46.7195826 10.1771034 40.2405982"></polygon>
+                    <polygon id="矩形" transform="translate(15.791253, 15.407799) rotate(15.000000) translate(-15.791253, -15.407799) " points="9 5.78817074 22.5825053 2 18.2041689 26.6156352 9.99379938 28.8155971"></polygon>
+                </g>
+                <g id="编组" transform="translate(67.000000, 105.641754)">
+                    <polygon id="三角形" transform="translate(14.180478, 31.489031) scale(1, -1) rotate(-43.000000) translate(-14.180478, -31.489031) " points="18.1838518 16.2584803 17.1249635 46.7195826 10.1771034 40.2405982"></polygon>
+                    <polygon id="矩形" transform="translate(15.791253, 15.407799) rotate(15.000000) translate(-15.791253, -15.407799) " points="9 5.78817074 22.5825053 2 18.2041689 26.6156352 9.99379938 28.8155971"></polygon>
+                </g>
+                <g id="编组" transform="translate(111.000000, 105.641754)">
+                    <polygon id="三角形" transform="translate(14.180478, 31.489031) scale(1, -1) rotate(-43.000000) translate(-14.180478, -31.489031) " points="18.1838518 16.2584803 17.1249635 46.7195826 10.1771034 40.2405982"></polygon>
+                    <polygon id="矩形" transform="translate(15.791253, 15.407799) rotate(15.000000) translate(-15.791253, -15.407799) " points="9 5.78817074 22.5825053 2 18.2041689 26.6156352 9.99379938 28.8155971"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
